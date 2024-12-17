@@ -2,4 +2,4 @@
 
 ![alt text](assets/banner.png)
 
-This repository will contain the code related to our recent project on editing Pattern Images with analogies. Check out more information at our [website](https://bardofcodes.github.io/patterns/)!
+This repository will contain the code related to our recent project on editing Pattern Images with analogies. Learn more at our [website](https://bardofcodes.github.io/patterns/)!
